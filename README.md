@@ -1,0 +1,2 @@
+# vertexgrouptools
+Addon for blender.
